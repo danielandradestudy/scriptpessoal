@@ -5,7 +5,7 @@ Esse script exibe um menu que permite instalar os apps que eu mais uso, atualiza
 
 ⌨️ Caso queira editar para instalar algum aplicativo da sua preferência é só editar a linha wget install em 1 { $OPTION = "1" e adicionar os seus parâmetros! Exemplo de parametro --> winget install Google.Chrome
 
-*Apos baixar o script, abra o powershell e passe o parâmetro para o prompt --> "PowerShell.exe -ExecutionPolicy Bypass -File C:\menu.ps1" caso tenha salvado o script em c:\*
+*Apos baixar o script, abra o powershell e passe o parâmetro para o prompt --> "PowerShell.exe -ExecutionPolicy Bypass -File C:\menu.ps1" caso tenha salvado o script em C:*
 
 ![alt text](https://github.com/danielandradestudy/scriptpessoal/blob/main/Captura%20de%20Tela%20(112).png)
 
