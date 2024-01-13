@@ -7,6 +7,7 @@ Esse script exibe um menu que permite instalar os apps que eu mais uso, atualiza
 
 *Apos baixar o script, abra o powershell e passe o parâmetro para o prompt--> PowerShell.exe -ExecutionPolicy Bypass -File C:\menu.ps1*
 
+![alt text](https://github.com/danielandradestudy/scriptpessoal/blob/main/Captura%20de%20Tela%20(112).png)
 
 
 
